@@ -7,13 +7,13 @@ Network traffic is collected, pushed into **Kafka**, analyzed by a Python ML ser
 
 Designed for **low latency, reliability, and real-time protection**.
 
----
+
 
 ## Demo
 
 Project is not hosted
 
----
+
 
 ## 🧰 Tech Stack
 Languages: Go, Python
@@ -25,7 +25,7 @@ API Protocol: HTTP/REST
 Authentication: JWT
 Others: Docker,Postman
 
----
+
 
 ## ✨ Features
 
@@ -57,7 +57,7 @@ Others: Docker,Postman
 * Manage webhooks per user (create / update / delete)
 * Exposes APIs for monitoring + administration
 
----
+
 
 ## ⚙️ Workflow
 
@@ -71,7 +71,6 @@ Others: Docker,Postman
 * Redis (if not found)
   6️⃣ Suspicious traffic is blocked instantly
 
----
 
 ## 🏗️ High-Level Architecture
 
