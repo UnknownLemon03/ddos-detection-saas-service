@@ -16,14 +16,16 @@ Project is not hosted
 
 
 ## 🧰 Tech Stack
-Languages: Go, Python
-Backend Frameworks: Go (net/http), GORM
-Message Broker: Apache Kafka
-Databases: PostgreSQL, Redis
-Machine Learning / Networking: PyTorch, TShark, sklearn
-API Protocol: HTTP/REST
-Authentication: JWT
-Others: Docker,Postman
+- **Languages**: Go, Python  
+- **Backend Frameworks**: Go (net/http), GORM  
+- **Message Broker**: Apache Kafka  
+- **Databases**: PostgreSQL, Redis  
+- **Machine Learning / Networking**: PyTorch, TShark, scikit-learn  
+- **API Protocol**: HTTP/REST  
+- **Authentication**: JWT  
+- **Others**: Docker, Postman  
+
+
 
 
 
