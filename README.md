@@ -16,24 +16,14 @@ Project is not hosted
 ---
 
 ## 🧰 Tech Stack
-
-### 🧠 Machine Learning (Python)
-
-* Python
-* TShark (traffic capture)
-* Kafka Producer (Aggregator)
-* Scikit-learn, Pandas, NumPy
-
-### 🚀 Services (Go)
-
-* Custom Proxy Gateway (with Bloom Filter + cache)
-* Backend API (webhooks, IP control, management)
-* Kafka Consumer
-* Redis integration
-
-### 🗄️ Storage
-
-* Redis (IPs, URLs, cache, blacklist)
+Languages: Go, Python
+Backend Frameworks: Go (net/http), GORM
+Message Broker: Apache Kafka
+Databases: PostgreSQL, Redis
+Machine Learning / Networking: PyTorch, TShark, sklearn
+API Protocol: HTTP/REST
+Authentication: JWT
+Others: Docker,Postman
 
 ---
 
