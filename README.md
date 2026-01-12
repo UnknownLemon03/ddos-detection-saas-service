@@ -17,7 +17,7 @@ Project is not hosted
 
 ## 🧰 Tech Stack
 - **Languages**: Go, Python  
-- **Backend Frameworks**: Go (net/http), GORM  
+- **Backend Frameworks**: GIN (GO), GORM  
 - **Message Broker**: Apache Kafka  
 - **Databases**: PostgreSQL, Redis  
 - **Machine Learning / Networking**: PyTorch, TShark, scikit-learn  
